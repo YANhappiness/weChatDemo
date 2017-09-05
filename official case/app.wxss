@@ -75,7 +75,6 @@ page {
   background-color: #fff;
   display: flex;
   flex-direction: column;
-  width: 100%;
   border: 1px solid #eee;
 }
 .page-body-form-item {
@@ -225,6 +224,6 @@ checkbox, radio{
     padding-left: 0;
     padding-right: 0;
 }
-.section__ctn{
+/* .section__ctn{
 
-}
+} */

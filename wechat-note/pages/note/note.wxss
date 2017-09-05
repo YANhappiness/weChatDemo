@@ -1,0 +1,40 @@
+.input-text{
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   font-size: 18px;
+   line-height: 30px;
+   padding: 10px;
+   margin: 10px 0 0 0 ;
+}
+
+.msg-title{
+  display: block;
+  margin: 10px 0;
+  color: #ff0000;
+}
+
+.list{
+  border-bottom: 1px dashed #ccc;
+  height: 30px;
+  line-height: 30px;
+  overflow: hidden;
+}
+
+.list-text{
+  margin-left:5px; 
+  float:left;
+}
+.icon{
+  float: right;
+  margin-right: 5px;
+}
+
+.text-body{
+  margin: 10px;
+}
+
+.delbtn{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
